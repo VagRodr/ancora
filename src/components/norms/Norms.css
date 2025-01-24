@@ -1,0 +1,16 @@
+.list {
+    list-style-type: circle;
+}
+
+h2 {
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+div {
+    margin: 50px 0 50px 0;
+}
+
+h3 {
+    margin-bottom: 50px;
+}
